@@ -4,6 +4,5 @@ title: Portfolio
 theme: LoveIt
 
 [params]
-defaultTheme: "auto"
 title: "Portfolio"
 description: "Este es mi portfolio"
