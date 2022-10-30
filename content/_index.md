@@ -36,3 +36,5 @@ Centro de Formación Profesional Los Enlaces
 # Trabajo
 
 Experiencia: Módulo de prácticas del grado superior realizadas en Hiberus (400 horas).
+
+He trabajado con Java, Python, Javascript y HTML entre otros. Respecto a los lenguajes de marcas he usado MySQL. 
