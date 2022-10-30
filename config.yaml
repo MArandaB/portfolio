@@ -2,7 +2,4 @@ baseURL: http://example.org/
 languageCode: en-us
 title: Portfolio
 theme: LoveIt
-
-[params]
-title: "Portfolio"
 description: "Este es mi portfolio"
