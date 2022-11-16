@@ -4,9 +4,6 @@ date: 2022-10-30T13:00:28+01:00
 draft: false
 ---
 
-![Foto](images/foto.jpeg)
-
-
 # Educación
 
 **B2 Inglés**

@@ -1,5 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Portfolio
+title: "Mi portfolio"
 theme: LoveIt
-description: "Este es mi portfolio"
+description: "Portfolio de Mario Aranda"
+avatarURL: "/images/foto1.png"
